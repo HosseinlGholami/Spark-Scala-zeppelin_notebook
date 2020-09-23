@@ -1,0 +1,6 @@
+rrn and lstm _image captioning:
+https://drive.google.com/open?id=1DF6wbbOTG3Jf19dH-TslYU1FrVMLUA07
+StyleGan2:
+https://drive.google.com/open?id=1QHc-yF5C3DChRwSdZKcx1w6K8JvSxQi7
+Data path of StyleGan2
+https://drive.google.com/open?id=1MPzN_P3tboAJJxm7EDvQZoRFRvlpVTJq
